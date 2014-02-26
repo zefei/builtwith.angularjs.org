@@ -1820,6 +1820,22 @@
         "Geolocation API",
         "Tests Included"
       ]
+    },
+    {
+      "name": "Remonit",
+      "thumb": "remonit/thumb.png",
+      "desc": "Remonit is a remote monitoring app with realtime synchronization and responsive dashboards.",
+      "url": "http://zef.io/remonit/",
+      "info": "http://zef.io/remonit/",
+      "submitter": "zefei",
+      "submissionDate": "2014-02-25",
+      "tags": [
+        "Productivity",
+        "Monitoring",
+        "Meteor",
+        "node-webkit",
+        "PouchDB"
+      ]
     }
   ]
 }
